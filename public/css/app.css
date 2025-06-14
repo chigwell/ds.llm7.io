@@ -1,0 +1,10 @@
+.item-title {
+    font-weight: bold !important;
+
+}
+item-inner {
+    overflow-wrap: anywhere !important;
+}
+textarea {
+    min-height: 400px !important;
+}
